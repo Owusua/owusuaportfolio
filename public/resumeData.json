@@ -1,0 +1,140 @@
+{
+  "main": {
+    "name": "Bridget Oduro",
+    "occupation": "Frontend Guru",
+    "description": "I love JavaScript",
+    "image": "profilepic.png",
+    "bio": "Hello, I am Bridget a Frontend Developer who is passionate about Web Development and Artificial Intelligence. I have over two years experience in frontend development which has developed my skills in both web and mobile applications. I love reading on technogies on artificial intelligence such image recognition and data analysis. You can also check out my blog on technology(Talktech Culture) on Facebook",
+    "contactmessage": "Get in touch with me on anything relating to technology",
+    "email": "lilowusuaoduro@gmail.com",
+    "phone": "+39 3662054314",
+    "address": {
+      "street": "Via Edoardo Chinotto",
+      "city": "Milan",
+      "state": "Lombardia",
+      "zip": "20147"
+    },
+    "website": "https://www.papareact.com/course",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/bridget.owusuaoduro/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/bridget-oduro-731a9a140/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/akuaowusuaoduro/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Owusua",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "University of Siena",
+        "degree": "Masters's Degree, MSc Computer and Automation Engineering",
+        "graduated": "-"
+      },
+      {
+        "school": "Kwame Nkrumah University of Science and Technology",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "June 2014"
+      }
+    ],
+    "work": [
+      {
+        "company": "6Wolves",
+        "title": "Frontend Developer Intern",
+        "years": "August 2020 - January 2021",
+        "description": "Developing the frontend of the yogalive application on both mobile and website using Vuejs, CSS, Vuex"
+      },
+      {
+        "company": "KeyCrime Srl",
+        "title": "Frontend Developer Intern",
+        "years": "March 2020 - June 2020",
+        "description": "Developing the Delia Web Application using Vuejs, Material UI and researching on the use of micro frontends and the atomic design methodology in the Delia Web Application"
+      },
+      {
+        "company": "El Cuto Consult Limited",
+        "title": "Solutions Engineer",
+        "years": "April 2016 - September 2017",
+        "description": "Building mobile value-added applications with integrations with telecommunication companies using C#, ASP.NET CORE, TSQL and Microsoft Servers(Microsoft SQL)"
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML, CSS, JavaScript",
+        "level": "100%"
+      },
+      {
+        "name": "Vuejs, Git, Sql",
+        "level": "85%"
+      },
+      {
+        "name": "Reactjs",
+        "level": "60%"
+      },
+      {
+        "name": "Tech Blogging",
+        "level": "90%"
+      },
+      {
+        "name": "Web Development",
+        "level": "75%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Covid-19 Tracker (JavaScript)",
+        "category": "",
+        "image": "covid-19tracker.png",
+        "url": "https://my-briod-covid-19-tracker.web.app/"
+      },
+      {
+        "title": "Netflix Clone (React JS)",
+        "category": "",
+        "image": "netflix-clone.png",
+        "url": "https://briod-netflix-clone.web.app/"
+      },
+      {
+        "title": "Amazon Clone (React JS)",
+        "category": "",
+        "image": "amazonclone.png",
+        "url": "https://my-bri-amaz-clone.web.app/"
+      },
+      {
+        "title": "Whatsapp Clone (React JS)",
+        "category": "",
+        "image": "whatsappclone.png",
+        "url": "https://bri-whatsappclone.web.app/"
+      },
+      {
+        "title": "Signal Clone (React Native)",
+        "category": "",
+        "image": "ourSignalClone.png",
+        "url": "https://mysignalclone.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Live everyday without regrets",
+        "user": "Anonymous"
+      }
+    ]
+  }
+}
